@@ -1,0 +1,26 @@
+﻿.justi {
+    text-align: justify;
+}
+
+.icaewlogo {
+    float: right !important;
+}
+
+.maptitle {
+    display: inline;
+}
+
+.mapimg {
+    margin-right: 3px;
+    height: 16px;
+    width: 16px;
+}
+
+.fromIcon {
+    display: inline-block;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
